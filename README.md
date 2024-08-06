@@ -15,7 +15,7 @@ Este es el proyecto final del curso nodejs intermedio, en el cual se pone a prac
    ```bash
    git clone https://github.com/Liamrox105/Proyecto-Node-final
 2. Navegar en el proyecto
-    cd nombre-del-proyecto
+    cd event-management-project-main
 3.  - Descarga e instala MongoDB desde [mongodb.com](https://www.mongodb.com/try/download/community).
    - Asegúrate de que MongoDB esté en funcionamiento:
      ```bash
